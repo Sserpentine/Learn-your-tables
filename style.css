@@ -1,0 +1,25 @@
+body{
+ background-color: lightskyblue;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+h1{
+    color: maroon;
+    text-align: center  ;
+    font-size: 100px;
+}
+h2{
+    color: deeppink;
+    text-align: center;
+    font-size: 80px;
+}
+p{
+    color: blue;
+    text-align: center;
+    font-size: 50px;
+}
+h3{
+    color: darkslateblue;
+    text-align: center;
+    font-size: 30px;
+}
